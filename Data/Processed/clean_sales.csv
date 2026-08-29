@@ -1,0 +1,7 @@
+order_id,order_date,customer_id,customer_name,product,category,quantity,unit_price,region,revenue
+1001,2026-01-05,C001,Ravi,Laptop,Electronics,2.0,75000,South,150000.0
+1002,2026-01-06,C002,John,Mouse,Accessories,5.0,1200,North,6000.0
+1003,2026-01-06,C003,Sarah,Keyboard,Accessories,3.0,2500,West,7500.0
+1004,2026-01-07,C001,Ravi,Laptop,Electronics,1.0,75000,South,75000.0
+1006,2026-01-09,C005,Emily,Headphones,Accessories,2.0,3000,North,6000.0
+1007,2026-01-10,C006,Michael,Phone,Electronics,1.0,45000,West,45000.0
