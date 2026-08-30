@@ -1,0 +1,15 @@
+{
+	"name": "adf-sales-pipeline-karthik",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6845658f-9a7a-4df1-a041-561a489d7c7b",
+		"tenantId": "c6dff799-5d27-46ee-9977-109477872110"
+	}
+}
