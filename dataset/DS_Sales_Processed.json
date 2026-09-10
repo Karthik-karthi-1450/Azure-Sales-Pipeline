@@ -1,0 +1,23 @@
+{
+	"name": "DS_Sales_Processed",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLS_Sales",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "sales.csv",
+				"container": "processed"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
